@@ -9,7 +9,7 @@
               "Alexa launch demo skill",
               "Alexa, open demo skill"
             ],
-            "name": "demo skill",
+            "name": "Template 26 - Interceptor Example",
             "description": "An example skill that shows how to use request and response interceptors.",
             "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
             "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
